@@ -63,9 +63,6 @@ npm run storybook
           |               reactIcon.png
           |
           +---components
-          |   +---HOC
-          |   |       LoaderHOC.tsx
-          |   |
           |   +---Layout
           |   |       ContentWrapper.tsx
           |   |
