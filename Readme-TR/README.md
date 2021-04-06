@@ -8,6 +8,8 @@
 <img src="https://user-images.githubusercontent.com/24482512/104733626-081c3a80-5750-11eb-94ef-c9170c9d4e9a.png" width="100" height="100%" display="inline">
 </h1>
 
+[Türkçe](https://github.com/yunusunver/react-redux-typescript-webpack-starter-kit/blob/main/Readme-TR/README.md) | [English](https://github.com/yunusunver/react-redux-typescript-webpack-starter-kit)
+
 # React Redux TypeScript Starter Kit
 
 Starter Kit, geliştiricilere rehber olması amacıyla oluşturulmuştur. Kullanılan kütüphaneler geliştiricinin isteğine göre şekillendirilebilir. Bu proje yapısını kullanarak hızlı bir şekilde TypeScript ile React projeleri geliştirebilirsiniz. Projede kullanılan Redux-Form kütüphanesiyle formlarınızı yönetebilirsiniz. Redux Form kullanımına örnek olarak `Textbox` ve `Dropdown` kullanılmıştır. <a href="https://redux-form.com/8.3.0/docs/gettingstarted.md/">Redux-Form</a>
