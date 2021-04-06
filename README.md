@@ -8,6 +8,8 @@
 <img src="https://user-images.githubusercontent.com/24482512/104733626-081c3a80-5750-11eb-94ef-c9170c9d4e9a.png" width="100" height="100%" display="inline">
 </h1>
 
+[Türkçe](https://github.com/yunusunver/react-redux-typescript-webpack-starter-kit/blob/main/Readme-TR/README.md) | [English](https://github.com/yunusunver/react-redux-typescript-webpack-starter-kit)
+
 # React Redux TypeScript Webpack Starter Kit
 
 The Starter Kit is created to guide developers. The Libraries that are used could be customized according to the developer's will. You can quickly develop React projects with TypeScript by using this project structure. You can manage your forms with the Redux-Form library that is used in the project. Textbox and Dropdown are used as samples of using Redux Form.
