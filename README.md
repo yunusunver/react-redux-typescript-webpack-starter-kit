@@ -34,7 +34,7 @@ React, Redux, Redux Form, Webpack, Babel, Typescript, Eslint, Prettier, Husky, S
 # Quick Start
 
 ```
-git clone https://github.com/yunusunver/roadmapdeneme.git
+git clone https://github.com/yunusunver/react-redux-typescript-webpack-starter-kit.git
 
 npm install
 npm run start
